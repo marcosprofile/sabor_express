@@ -29,6 +29,6 @@ Este é um aplicativo de terminal em Python para **cadastro, listagem e ativaç�
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/marcosprofile/PythonProject.git
-cd PythonProject
+git clone https://github.com/marcosprofile/sabor_express.git
+cd sabor_express
 ```
